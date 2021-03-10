@@ -1,0 +1,29 @@
+
+a {
+    display: block;     /* 行元素变块元素 */
+    width: 230px;
+    height: 40px;
+    background-color: gray;
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+    text-indent: 2em;
+    line-height: 40px;   /* 文字行高等于盒子高度，实现单行文字垂直居中 */
+
+}
+
+a:hover {
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
