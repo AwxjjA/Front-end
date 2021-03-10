@@ -1,0 +1,68 @@
+.nav a {
+    display: inline-block;
+    width: 120px;
+    height: 58px;
+    background-color: pink;
+    
+    line-height: 48px;     /* 不设为58px是为了让文字位置偏上，达到居中效果 */
+    text-align: center;
+    text-decoration: none;
+}
+
+.a1 {
+    background-image: url(../images/bg1.png);
+    background-repeat: no-repeat;
+}
+
+.a2 {
+    background-image: url(../images/bg2.png);
+    background-repeat: no-repeat;
+}
+
+.a3 {
+    background-image: url(../images/bg3.png);
+    background-repeat: no-repeat;
+}
+
+.a4 {
+    background-image: url(../images/bg4.png);
+    background-repeat: no-repeat;
+}
+
+.a5 {
+    background-image: url(../images/bg7.png);
+    background-repeat: no-repeat;
+}
+
+.nav .a1:hover {
+    background-image: url(../images/bg7.png);
+    background-repeat: no-repeat;
+}
+
+.nav .a2:hover {
+    background-image: url(../images/bg4.png);
+    background-repeat: no-repeat;
+}
+
+.nav .a3:hover {
+    background-image: url(../images/bg22.png);
+    background-repeat: no-repeat;
+}
+
+.nav .a4:hover {
+    background-image: url(../images/bg2.png);
+    background-repeat: no-repeat;
+}
+
+.nav .a5:hover {
+    background-image: url(../images/bg1.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
